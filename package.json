@@ -1,0 +1,29 @@
+{
+  "name": "cheffydb",
+  "version": "1.0.5",
+  "description": "Fast, tiny, simple JSON database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "db",
+    "json",
+    "database",
+    "jsondb",
+    "tiny",
+    "storage",
+    "easy",
+    "quick",
+    "json database",
+    "fast",
+    "heavy",
+    "simple",
+    "backup",
+    "data",
+    "store"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/cfy8001/cheffydb",
+  "repository": "https://github.com/cfy8001/cheffydb"
+}
