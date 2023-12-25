@@ -1,6 +1,6 @@
 {
   "name": "cheffydb",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Fast, tiny, simple JSON database",
   "main": "index.js",
   "scripts": {
