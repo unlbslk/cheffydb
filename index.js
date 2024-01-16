@@ -94,10 +94,6 @@ if (fixDB.size === 0) fs.writeFileSync('./cheffydb.json', "{}");
 	let dbfile = encKey ? decryptedDB(fs.readFileSync('./cheffydb.json', "utf8")) : fs.readFileSync('./cheffydb.json', "utf8")
  var s = JSON.parse(dbfile);
  s[id] = value
- const asdkey = await encKey ? updateEncryptedDB(true) : fs.readFildeSync('./cheffydb.json', "UTF-8");
- if (asdkey == null) {
-  fs.writeLineSync("./cheffydb.json", {})
- }
  encKey ? updateEncryptedDB(s) : fs.writeFileSync('./cheffydb.json', JSON.stringify(s));
  return value
   },
