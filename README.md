@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-	<img src="https://cdn.discordapp.com/attachments/874221810751795200/1020666083138605157/cheffydb.png" width="500" alt="CheffyDB" /></a>
+	<img src="https://i.hizliresim.com/9npiku8.png" width="500" alt="CheffyDB" /></a>
 	</p>
 	<br />
 	<p>
