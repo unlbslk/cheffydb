@@ -6,7 +6,7 @@
 	<br />
 	<p>
 	<a href="https://www.npmjs.com/package/cheffydb"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white" alt="NPM" /></a>
-	<a href="https://github.com/cfy8001/cheffydb"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+	<a href="https://github.com/unlbslk/cheffydb"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 	<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
 	<img src="https://img.shields.io/npm/dt/cheffydb.svg?style=flat-square" alt="Downloads" />
 	</p>
